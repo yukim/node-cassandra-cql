@@ -1,0 +1,11 @@
+{
+  "name": "cassandra-cql",
+  "description": "Apache Cassandra CQL driver for node.js",
+  "version": "0.0.1",
+  "author": "Yuki Morishita <mor.yuki@gmail.com>",
+  "main": "index.js",
+  "lib" : "gen-nodejs",
+  "dependencies" : {
+    "thrift": "*"
+  }
+}
