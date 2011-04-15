@@ -7,8 +7,10 @@ cassandra-cql is node.js CQL driver for Apache Cassandra(http://cassandra.apache
 Installation
 --------------
 
+Use npm to install::
+
   $ git clone https://github.com/yukim/node-cassandra-cql.git
-  $ npm install .
+  $ npm install
 
 Usage
 ---------
